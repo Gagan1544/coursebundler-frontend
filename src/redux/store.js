@@ -19,4 +19,4 @@ const store = configureStore({
 });
 export default store;
 
-export const server = 'https://course-bundler-server-liart.vercel.app/api.v1';
+export const server = 'https://course-bundler-server-liart.vercel.app/api/v1';
