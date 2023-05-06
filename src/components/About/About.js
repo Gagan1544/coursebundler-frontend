@@ -19,14 +19,14 @@ const Founder = () => (
   <Stack direction={['column', 'row']} spacing={['4', '16']} padding={'8'}>
     <VStack>
       <Avatar src={me} boxSize={['40', '48']} />
-      <Text children="Co-Founder" opacity={0.7} />
     </VStack>
     <VStack justifyContent={'center'} alignItems={['center', 'flex-start']}>
-      <Heading children="Gagan Gupta" size={['md', 'xl']} />
+      <Heading children="Course Bundler" size={['md', 'xl']} />
       <Text
         textAlign={['center', 'left']}
-        children={`Hi, I am a full stack developer.
-        Our mission is to provide quality content at reasonable price.`}
+        children={`At CourseBundler, our vision is to be the most well regarded education provider in India committed to the highest standards of teaching excellence and learner care, supported by latest technology and cutting edge research.
+We ask more of ourselves, so we can give more to our Learner. We push the boundaries of excellence in everything we do, so we can deliver the highest standards in improving skills.
+`}
       />
     </VStack>
   </Stack>
