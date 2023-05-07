@@ -12,7 +12,7 @@ import {
 import { Link } from 'react-router-dom';
 import termsAndCondition from '../../assests/docs/termsAndCondition';
 import me from '../../assests/images/founder.jpg';
-import introVideo from '../../assests/videos/intro.mp4';
+import introVideo from '../../assests/videos/intro.mov';
 import React from 'react';
 import { RiSecurePaymentFill } from 'react-icons/ri';
 const Founder = () => (
